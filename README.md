@@ -67,6 +67,10 @@ The system uses a **strict grounding prompt** to ensure reliable answers:
 ```
 .
 ├── app.py
+├── images/
+│   ├── rag.png
+│   ├── image.png
+│   ├── help.png
 ├── rag.py
 ├── vision.py
 ├── embeddings.py
