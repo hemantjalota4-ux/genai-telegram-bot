@@ -151,9 +151,9 @@ python app.py
 
 ## Demo
 
-![RAG Demo](images/Screenshot 2026-03-26 230824.png)
-![Image Demo](images/Screenshot 2026-03-26 231036.png)
-![Help Demo](images/Screenshot 2026-03-26 230859.png)
+![RAG Demo](images/ask.png)
+![Image Demo](images/image.png)
+![Help Demo](images/help.png)
 
 ### Example Output
 
