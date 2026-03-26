@@ -147,6 +147,10 @@ python app.py
 
 ## Demo
 
+![RAG Demo](image.png)
+![Image Demo](image-2.png)
+![Help Demo](image-1.png)
+
 ### Example Output
 
  Top Answers  
@@ -159,8 +163,6 @@ RAG stands for Retrieval-Augmented Generation...
 
  Context Used  
 - RAG stands for Retrieval-Augmented Generation...  
-
-(Add screenshots here)
 
 ---
 
